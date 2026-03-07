@@ -2,8 +2,7 @@
 
 - 🤔 Explorando técnologias e sempre buscando conhecimento.
 - 🎓 Sou bacharel em Sistemas de Informação
-- 💼 Trabalhando como DevOps na Progrid Softwares & Soluções.
-- 🌱 Aprendendo mais sobre Go.
+- 💼 Buscando realocação profissional para a área de Engenharia de Software.
 
 ## 🖥️ Minhas Skills
 
